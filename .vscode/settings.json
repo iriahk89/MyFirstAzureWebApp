@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net5.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/df5cb68a-8d3a-413c-a8a6-500793c465a5/resourceGroups/Khairi-Demo/providers/Microsoft.Web/sites/khairidotnet5demo"
+}
